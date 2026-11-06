@@ -121,16 +121,16 @@ gauravgupta5813-coder@github ~ $ fetch --stats --github
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravgupta5813-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00FF88&icon_color=00D9FF&text_color=E5E7EB" alt="gauravgupta5813-coder GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gauravgupta5813-coder&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9" alt="gauravgupta5813-coder GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=gauravgupta5813-coder&theme=tokyonight&hide_border=true&background=080B12&ring=00FF88&fire=FF884D&currStreakLabel=00D9FF" alt="gauravgupta5813-coder GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta5813-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00FF88&text_color=E5E7EB" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gauravgupta5813-coder&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravgupta5813-coder&bg_color=080B12&color=00FF88&line=00D9FF&point=A855F7&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravgupta5813-coder&bg_color=080B12&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="24" /> 05. LeetCode Metrics

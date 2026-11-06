@@ -181,9 +181,8 @@ class ReadmeGenerator:
         """GitHub activity and streak statistics."""
         user = self.p.github_username
         stats_url = (
-            f"https://github-readme-stats.vercel.app/api?username={user}"
-            f"&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B12"
-            f"&title_color=00FF88&icon_color=00D9FF&text_color=E5E7EB"
+            f"https://github-stats-extended.vercel.app/api?username={user}"
+            f"&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9"
         )
         streak_url = (
             f"https://streak-stats.demolab.com?user={user}"
@@ -191,13 +190,12 @@ class ReadmeGenerator:
             f"&ring=00FF88&fire=FF884D&currStreakLabel=00D9FF"
         )
         langs_url = (
-            f"https://github-readme-stats.vercel.app/api/top-langs/?username={user}"
-            f"&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B12"
-            f"&title_color=00FF88&text_color=E5E7EB"
+            f"https://github-stats-extended.vercel.app/api/top-langs/?username={user}"
+            f"&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
         )
         activity_graph_url = (
             f"https://github-readme-activity-graph.vercel.app/graph?username={user}"
-            f"&bg_color=080B12&color=00FF88&line=00D9FF&point=A855F7&area=true&hide_border=true"
+            f"&bg_color=080B12&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
         )
 
         return (
