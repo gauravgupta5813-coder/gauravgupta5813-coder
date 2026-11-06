@@ -1,0 +1,9 @@
+# Premium GitHub Profile README Generator Dependencies
+numpy>=1.24.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+rembg>=2.0.50
+onnxruntime>=1.15.0
+requests>=2.28.0
+scipy>=1.10.0
+
