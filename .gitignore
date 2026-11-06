@@ -29,3 +29,19 @@ htmlcov/
 *.swp
 *.swo
 
+# Machine Learning models
+assets/models/*.onnx
+*.pth
+*.pt
+*.keras
+
+# Temporary generated images
+assets/generated/test_mask.png
+assets/generated/segmentation_mask.png
+
+# Environment files
+.env
+.env.*
+
+# Python cache
+__pycache__/
