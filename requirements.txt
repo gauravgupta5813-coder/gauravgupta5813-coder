@@ -6,4 +6,4 @@ rembg>=2.0.50
 onnxruntime>=1.15.0
 requests>=2.28.0
 scipy>=1.10.0
-
+beautifulsoup4>=4.12.0

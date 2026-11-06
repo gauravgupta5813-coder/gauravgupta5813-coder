@@ -193,10 +193,7 @@ class ReadmeGenerator:
             f"https://github-stats-extended.vercel.app/api/top-langs/?username={user}"
             f"&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
         )
-        activity_graph_url = (
-            f"https://github-readme-activity-graph.vercel.app/graph?username={user}"
-            f"&bg_color=080B12&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-        )
+        contribution_graph_path = "assets/contribution-graph.svg"
 
         return (
             f"### <img src=\"https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png\" width=\"24\" /> 04. GitHub Analytics\n\n"
@@ -211,7 +208,7 @@ class ReadmeGenerator:
             f"  <img src=\"{langs_url}\" alt=\"Top Languages\" height=\"165\" />\n"
             f"</p>\n\n"
             f"<p align=\"center\">\n"
-            f"  <img src=\"{activity_graph_url}\" alt=\"Contribution Graph\" width=\"100%\" />\n"
+            f"  <img src=\"{contribution_graph_path}\" alt=\"{user} Contribution Activity Graph\" width=\"100%\" />\n"
             f"</p>"
         )
 

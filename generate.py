@@ -19,6 +19,7 @@ from src.config import AppConfig, ProfileConfig, HalftoneConfig, PaletteConfig
 from src.segmentation import SegmentationEngine
 from src.portrait import HalftonePortraitEngine
 from src.readme import ReadmeGenerator
+from src.contributions import ContributionGraphEngine
 from src.utils import ensure_dir
 
 logging.basicConfig(
@@ -112,8 +113,16 @@ def run_pipeline(
     else:
         logger.info("[Info] Running in --readme-only mode. Preserving existing halftone portrait.")
 
-    # Step 6: Generate complete README.md
-    logger.info("[Step 6/7] Generating GitHub Profile README.md...")
+    # Step 6: Generate or update custom contribution graph SVG
+    logger.info("[Step 6/8] Generating custom contribution graph SVG...")
+    try:
+        contrib_engine = ContributionGraphEngine(config.profile.github_username)
+        contrib_engine.render_svg(output_path="assets/generated/contribution-graph.svg")
+    except Exception as e:
+        logger.warning(f"Could not regenerate contribution graph SVG: {e}. Using existing asset.")
+
+    # Step 7: Generate complete README.md
+    logger.info("[Step 7/8] Generating GitHub Profile README.md...")
     readme_gen = ReadmeGenerator(config=config)
     readme_content = readme_gen.generate(image_relative_path="assets/gaurav-halftone.png")
 
@@ -121,14 +130,15 @@ def run_pipeline(
     ensure_dir(os.path.dirname(config.readme_output_path))
     readme_gen.save_readme(readme_content, config.readme_output_path)
 
-    # Step 7: Deploy README.md to repository root
-    logger.info(f"[Step 7/7] Deploying README.md to repository root ({config.root_readme_path})...")
+    # Step 8: Deploy README.md to repository root
+    logger.info(f"[Step 8/8] Deploying README.md to repository root ({config.root_readme_path})...")
     readme_gen.save_readme(readme_content, config.root_readme_path)
 
     logger.info("==================================================")
     logger.info("SUCCESS: Profile README and Halftone Portrait Generated!")
     logger.info(f"• Portrait Asset: {deploy_asset_path}")
     logger.info(f"• Portrait Preview: {cfg.output_preview_path}")
+    logger.info("• Contribution Graph: assets/contribution-graph.svg")
     logger.info(f"• README Output: {config.root_readme_path}")
     logger.info("==================================================")
 

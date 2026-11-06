@@ -130,7 +130,7 @@ gauravgupta5813-coder@github ~ $ fetch --stats --github
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravgupta5813-coder&bg_color=080B12&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="assets/contribution-graph.svg" alt="gauravgupta5813-coder Contribution Activity Graph" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="24" /> 05. LeetCode Metrics
