@@ -24,25 +24,62 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-```text
-       .--.
-      |o_o |
-      |:_/ |
-     //   \ \
-    (|     | )
-   /'\_   _/`\
-   \___)=(___/
+<pre>
+                               .
+                         .irs2A53h2s2Xri,
+                       ,23H23Aii22i;rX22hA;;ri;.
+                    :Xi5hhX,         ...AA,ii:s2s,
+                  .rA3sr2:  ,     .         ,;,Xh5A;.
+                 .Xh.si.;i     .   ..,,..    ,:;:2M2;.
+                 s5h;   .,;,,,:;;issXXAAX;   .,:;A55s,
+                 AMhr. .2hh35522555533hhMhs..   :;,::
+                 s5AhA.ASGH3253hhh322252A5hX,,::;;:.
+                 .ssAAshh2XrirA3332Xr;irX23M5,ii:
+                    ;25Mh2XirsAh533Arr;s22hhhri;
+                     ;XMM3AisX5HhMh2ssrA55hH5;::
+                     rhGGM3333GG3MHh52223hhMMrAhr
+                     rS#SGh32hMMhHhMM55hMHGGS5hMX
+                     iHGGM323H2252A5hh25MMHGM25hA
+                     .HGGM5r2533553hhAsr3HHH35h5:
+                      ,iHGMXs2HMHHHMhAAAhHHMs.,
+                        sHHhMGh55223hMhhHMh5:
+                         r3HMMHM5553hhhMM35s
+                          iM5522AAAAA2A533Hr
+                          .HH3As;:;;rA5hhhHs
+                           hGGSGh25hMHHMhhHA
+                           2SHGMHhMMMMHhhMMh:..
+                           sSHHHh533hMMhhMMhhs,,
+                           XSHHHM333MMhhhMMMhs:.,:.
+                          :2GHMMh5533h33335X;.,iAs;rs;.
+                         ;X;sA3h35555252Xr, .;rs:.;;:,:rr;;:.
+                    ,.rX:3;:;5:i222223Ar:.,:,;,  :i,. :2s.,;AAsr:,.
+                ..:s:sA.s5..s;,;A2AAA5sr,...:.  ;Xr ..XX. :XA:.;rX;;:
+             ,,,,,;.i3 ;2s. Xs ,rXsX5Ari  .r;   XA:. ;2; .Xs   ;;,,Xi.
+          :ihh;..;; s5,.XA.,rs.  rrsr;:   sA.  :2r  .AX, :2, .ii  ,sr,:
+        ,XiX3i. ;s; ;3, r5, ;5s. ,: :r   :2i   s2:  ;2;  A; :;rr,  sr.i,
+       .A: rs;  Ar, ;5: ;5i ,X5s.A2:Ai   s2:  ,AX.  sA  is :i :X, iA..r;
+      ,As  iX: ;X;, iA: ,2r ,A2i.,.:A,  .AX   i2r   Ar ,A..:  ;: ;Ai ,X:
+      ;X,::;X; Xs,. is: .Ar .22:.. ;A,  :2s   s2:  :A; rr :.  .. ;X, iA.
+      is ss:A; Xs ..rr, .Ar  A2:,. ;A.  i2i   XA.  ;X: ;:.:.,r. .Xi ,XX.
+      r2i:r is :X ..sr. .Ar  s5:.  iA.  r2:  ,AX   iXi ;.,;iX; .Xr .,2i,
+     ;riA.   rr ;  iA;  .As  i5i. .rX   AA.  :2s   rA..:   ;X: rX.  rA.,
+     ;.;2; .. s,.. :2;  .AX  :2i,;;rX   AX   i5r   5r ,:   ,: ;X;  ,2s
+     i;,2; .i .; i  Xi  .As  ;5,;3s;X  .Xs   r2;  ;5: ,:  .  .XX.  r2:.
+    .2rsr,  :i ..:: ss   Xs  :2,  .iX  .Xs   r2;  iX, ., :;  s2:   AX .
+    ri i5;  ii    , rX.  ss  ,2,  .iX  .Xs   s2:  ,s. .. s: ,2X   ;2; ,
+   X2, :5s. rs .r   :s.  ss   A:  .;X. ,Ar   X2,  ,i    is  rA;   XA. ;
+   sr, rX:  ,s  5X:  i:  rs   A:  .;s  ,X;   ss   ..    si  ss   :2r
+   ;, ,sX:  :A,;iX5r. ;  ;s.  Xi   :r .iAAXssAXssXXXr:,.r, .s;   ri.
+      ;r::,:s3AArrA5A;,  .r,  ri ;iXX2MHMMMhh3hh33552Ar:; :ri
+          :AhMMhhh3555As;,;:,;A55M3222HHh33hhhhhhh35Ai, .:i;
+           :rXAA22222A233333hHHHMMhA2A3HMHMMHHMh5As;;,,:,,
+                    :5MMMHHMMhhhhhh3XA25AXsXssi:,.   ,
+                     :;rsXAA25555333Ai;,
+                              ...,,,.
 
-    G A U R A V
-```
-
-<br/>
-
-**`gaurav@github`**
-
-`Computer Science Student`
-
-`Developer | Problem Solver`
+             G A U R A V   G U P T A
+                 DEVELOPER MODE
+</pre>
 
 </td>
 
