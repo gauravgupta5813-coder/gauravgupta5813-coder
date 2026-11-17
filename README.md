@@ -158,10 +158,10 @@ gauravgupta5813-coder@github ~ $ ping -c 4 connection.gaurav
   <a href="https://leetcode.com/u/Gaurav-Gupta123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://linkedin.com/in/gaurav-gupta-ds" target="_blank">
+  <a href="https://linkedin.com/in/gauravgupta58" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gauravgupta.cse.ds@gmail.com">
+  <a href="mailto:gauravgupta5813@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
